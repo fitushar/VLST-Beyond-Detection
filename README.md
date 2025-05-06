@@ -22,6 +22,7 @@ and received the **Best Presentation Award**.
 
 We are grateful for this recognition, which highlights the project’s innovative approach to connecting detection and diagnostic endpoints in virtual trials.
 
+![VITM-24 Poster](Figures/vitm24_poster.png) <!-- You can replace this with your actual ROC plot image path -->
 
 
 ## 🚀 Key Features
